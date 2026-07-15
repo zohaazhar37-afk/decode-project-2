@@ -1,0 +1,19 @@
+{
+  "name": "decodelabs-backend-project",
+  "version": "1.0.0",
+  "description": "DecodeLabs Project 2 Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
